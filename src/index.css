@@ -1,0 +1,19 @@
+@import "tailwindcss";
+@import url("https://fonts.googleapis.com/css2?family=Marck+Script&family=Protest+Riot&display=swap");
+@theme {
+  --font-riot: "Protest Riot", sans-serif;
+}
+@layer components {
+  .mycontainer {
+    @apply container mx-auto;
+  }
+}
+/* For Microsoft Edge */
+input[type="password"]::-ms-reveal {
+  display: none;
+}
+
+/* For WebKit-based browsers (Chrome, Safari, etc.) */
+input[type="password"]::-webkit-textfield-decoration-container {
+  display: none;
+}
