@@ -34,6 +34,8 @@ It’s ideal for developers and non-technical users alike who are looking for a 
 - Node.js
 - Express.js
 - MongoDB
+
+### Project Structure
 ```
 passop/
 │  
