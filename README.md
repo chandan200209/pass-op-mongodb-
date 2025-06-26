@@ -34,9 +34,9 @@ It’s ideal for developers and non-technical users alike who are looking for a 
 - Node.js
 - Express.js
 - MongoDB
-
+```
 passop/
-│
+│  
 ├── backend/
 │   │     
 │   └── server.js
@@ -48,3 +48,4 @@ passop/
 │   │   ├── App.jsx
 │   │   └── main.jsx
 │   └── tailwind.config.js
+```
